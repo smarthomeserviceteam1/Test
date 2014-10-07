@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Express 2013 for Web
 VisualStudioVersion = 12.0.30723.0
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication1", "WebApplication1\WebApplication1.csproj", "{D67656FE-7DF1-4129-A0D0-B7A01F799773}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartHomeService.UI", "WebApplication1\SmartHomeService.UI.csproj", "{D67656FE-7DF1-4129-A0D0-B7A01F799773}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmartHomeService.ViewModel", "SmartHomeService.ViewModel\SmartHomeService.ViewModel.csproj", "{FD2BF64F-A6DE-4450-93DA-5C2E41A100D4}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{D67656FE-7DF1-4129-A0D0-B7A01F799773}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D67656FE-7DF1-4129-A0D0-B7A01F799773}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D67656FE-7DF1-4129-A0D0-B7A01F799773}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD2BF64F-A6DE-4450-93DA-5C2E41A100D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD2BF64F-A6DE-4450-93DA-5C2E41A100D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD2BF64F-A6DE-4450-93DA-5C2E41A100D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD2BF64F-A6DE-4450-93DA-5C2E41A100D4}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
